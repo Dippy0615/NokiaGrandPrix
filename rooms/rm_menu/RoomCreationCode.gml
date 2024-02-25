@@ -1,0 +1,1 @@
+if(global.highscore==-1) init_highscores();

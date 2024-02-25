@@ -1,0 +1,2 @@
+/// @description Particle controller
+particles = [];
